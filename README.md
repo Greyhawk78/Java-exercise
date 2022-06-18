@@ -6,3 +6,5 @@ Support "*", "/", "+", "-" operations.
 /help = help
 /exit = exit
 Works with BigInteger.
+
+Budget - simple budget manager
